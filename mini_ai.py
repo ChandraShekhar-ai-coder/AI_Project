@@ -1,9 +1,19 @@
 people = [
     {
-        "Name": "Rocky", 
-        "Age": 12,
+        "Name": "Ritu", 
+        "Age": 22,
+        "Gender": "Girl",
+        "Birthplace": "Delhi",
+    },  {
+        "Name": "Ramesh", 
+        "Age": 42,
         "Gender": "Boy",
-        "Birthplace": "Lucknow",
+        "Birthplace": "Lucknow Cant",
+    },  {
+        "Name": "Randir", 
+        "Age": 62,
+        "Gender": "Boy",
+        "Birthplace": "New York",
     }, # <-- Added comma here
     {        
         "Name": "Aman",
